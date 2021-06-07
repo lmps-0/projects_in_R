@@ -6,9 +6,9 @@ Projects and studies in R Language
 3. Machine Learning Projects in R:
 - Linear Regression
 - Logistic Regression
-K Nearest Neighbors
-Decision Trees & Random Forests  
-SVM
-K-means
-NLP
+- K Nearest Neighbors
+- Decision Trees & Random Forests  
+- SVM
+- K-means
+- NLP
 4. Neural Nets in R
