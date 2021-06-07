@@ -2,7 +2,7 @@
 Projects and studies in R Language
 
 1. Data Visualization Project in R
-- recreating a plot from The Economist website
+Recreating a plot from ~The Economist~ 
 3. Capstone Data Project
 4. Machine Learning Projects in R:
 - Linear Regression
