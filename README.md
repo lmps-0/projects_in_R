@@ -1,7 +1,7 @@
 # projects_in_R
 Projects and studies in R Language
 
-1. Data Visualization Project in R/n
+1. Data Visualization Project in R\n
 Recreating a plot from _The Economist_ 
 3. Capstone Data Project
 4. Machine Learning Projects in R:
