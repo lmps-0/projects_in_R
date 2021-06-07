@@ -3,9 +3,9 @@ Projects and studies in R Language
 
 1. Data Visualization Project in R
 2. Capstone Data Project
-3. Machine Learning Projects in R
-Linear Regression
-Logistic Regression
+3. Machine Learning Projects in R:
+- Linear Regression
+- Logistic Regression
 K Nearest Neighbors
 Decision Trees & Random Forests  
 SVM
