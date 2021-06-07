@@ -12,3 +12,5 @@ Projects and studies in R Language
 - K-means
 - NLP
 4. Neural Nets in R
+
+@ Udemy : Data Science and Machine Learning Bootcamp with R
