@@ -8,17 +8,17 @@ I will be using data from Sean Lahaman's Website a very useful source for baseba
 
 The documentation for the csv files is located in the readme2013.txt file.
 
-- _Batting.csv_ first dataset -> players data
+- _Batting.csv_, which is the first dataset (players data)
 
-- _Salaries.csv_ is the salary dataset
+- _Salaries.csv_, which is the dataset of salaries
 
 # Feature Engineering
 Where I added three more statistics (those used in Moneyball)
-Formulas are from Wikipedia page
+Formulas are from Wikipedia page.
 
-[1] Batting Average - AVG = Hits/At Base
-[2] On Base Percentage
-[3] Slugging Percentage -> need for singles X1B column
+-[1] Batting Average, AVG = Hits/At Base
+-[2] On Base Percentage
+-[3] Slugging Percentage -> there is the need of singles, X1B column
 
 # Constraints for replacing players
 - The total combined salary of the three players can not exceed 15 million dollars.
