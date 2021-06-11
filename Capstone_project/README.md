@@ -16,9 +16,9 @@ The documentation for the csv files is located in the readme2013.txt file.
 Where I added three more statistics (those used in Moneyball)
 Formulas are from Wikipedia page.
 
--[1] Batting Average, AVG = Hits/At Base
--[2] On Base Percentage
--[3] Slugging Percentage -> there is the need of singles, X1B column
+- [1] Batting Average, AVG = Hits/At Base
+- [2] On Base Percentage
+- [3] Slugging Percentage -> there is the need of singles, X1B column
 
 # Constraints for replacing players
 - The total combined salary of the three players can not exceed 15 million dollars.
