@@ -1,16 +1,16 @@
 # MoneyBall Project
 
-In this project I tried work with some data and with the goal of trying to find replacement players for the ones that Oakland Athletics team lost at the start of the off-season - During the 2001–02 offseason. The Oakland A's lost three key free agents to larger market teams.
+In this project I tried to work with some data by trying to find replacement players for the ones that Oakland Athletics team lost at the start of the off-season - During the 2001–02 offseason. The Oakland A's lost three key free agents to larger market teams.
 
 The main goal of this project was to work with R on real data to try and derive actionable insights.
 
-I will be using data from Sean Lahaman's Website a very useful source for baseball statistics. 
+I used data from Sean Lahaman's Website a very useful source for baseball statistics. 
 
 The documentation for the csv files is located in the readme2013.txt file.
 
-- _Batting.csv_, which is the first dataset (players data)
+- _Batting.csv_ contains the first dataset (players data)
 
-- _Salaries.csv_, which is the dataset of salaries
+- _Salaries.csv_ contains the dataset of salaries
 
 # Feature Engineering
 Where I added three more statistics (those used in Moneyball)
