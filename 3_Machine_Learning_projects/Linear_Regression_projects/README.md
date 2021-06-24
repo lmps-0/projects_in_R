@@ -1,6 +1,6 @@
 # Linear Regression Model
 
-In this project I used the "Bike Sharing Demand Kaggle challenge!". 
-However, I did not submit any results to the competition.
-
-DATASET ->  bikeshare.csv file 
+[1] project of the "Bike Sharing Demand Kaggle challenge!"
+- bikeshare.csv file as dataset
+[2] Linear Regression project scope
+- student-mat.csv file as dataset
